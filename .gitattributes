@@ -1,0 +1,2 @@
+*.asd linguist-language=common-lisp
+*.spec linguist-language=cffi
